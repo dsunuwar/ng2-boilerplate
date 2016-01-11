@@ -1,1 +1,8 @@
-// list of ignore files here
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.DS_Store
+.idea
+*.js
+*.map
